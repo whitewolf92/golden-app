@@ -23,10 +23,10 @@ The UI design of the website is build using clean vanilla css with `Flex layout`
 
 The responsive design of the web app only caters to full desktop and mobile view. I did not take into account the tablet view.
 
-The project folder structure is as followed:
+The project directory structure is as followed:
 
-- src => Contains the main project component file that loads the UI. App.tsx
-- api => For api calls to the json or any other endpoints
-- interfaces => Defining the strict structure to be used - redux => A single file call dataStore.ts that contains the reducer and action creator.
+- `src` => Contains the main project component file that loads the UI. App.tsx
+- `api` => For api calls to the json or any other endpoints
+- `interfaces` => Defining the strict structure to be used - redux => A single file call dataStore.ts that contains the reducer and action creator.
 
 As no json is found, I took the liberty of creating one myself and my assumption is the landing page images is loaded from the json file. As such, the json file contains an array of data, each data containing the `image url, main text, links, hrefs` which can change the look and feel of the texts on the Grid.
