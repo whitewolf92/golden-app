@@ -1,5 +1,7 @@
 # Getting Started with Golden App
 
+`Node requirement: Please run and test on Node version equal or greater to v14.12`
+
 ## Available Scripts
 
 In the project directory, you can run:
