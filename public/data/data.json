@@ -1,0 +1,48 @@
+[
+	{
+		"src": "landing/pic-1.png",
+		"mainText": "PLAY<br/>WIN<br/>EXCITE<br/><a class='btn btn-red btn-get-started' href='/'>Get Started!</a>",
+		"spanStyle": {
+			"display": "inline-block",
+			"top": "25%",
+			"left": "28%",
+			"position": "relative",
+			"fontSize": "40px"
+		}
+	},
+	{ "src": "landing/pic-2.png" },
+	{ "src": "landing/pic-3.png" },
+	{ "src": "landing/pic-4.png" },
+	{ "src": "landing/pic-5.png" },
+	{
+		"src": "landing/pic-6.png",
+		"mainText": "LIVE GAMES WITH FRIENDS",
+		"linkHref": "/",
+		"linkText": "EXPLORE >",
+		"spanStyle": {
+			"width": "50%",
+			"display": "table",
+			"textAlign": "center",
+			"margin": "auto",
+			"top": "30%",
+			"position": "relative"
+		}
+	},
+	{ "src": "landing/pic-7.png" },
+	{ "src": "landing/pic-8.png" },
+	{ "src": "landing/pic-9.png" },
+	{ "src": "landing/pic-10.png" },
+	{
+		"src": "landing/pic-11.png",
+		"mainText": "LOVE PLAYING?<br/>JOIN THE LEAGUE",
+		"linkHref": "/",
+		"linkText": "APPLY NOW >",
+		"spanStyle": {
+			"display": "inline-block",
+			"top": "10%",
+			"left": "5%",
+			"position": "relative",
+			"fontSize": "36px"
+		}
+	}
+]
